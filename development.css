@@ -19,7 +19,9 @@ h1 {
    font-family: 'Roboto Mono', monospace;
    margin-left: 70px;
 }
-
+audio {
+  margin-left: 70px;
+}
 
 header2 {
     background-color: #fff;
